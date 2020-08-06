@@ -1,3 +1,9 @@
+## Media To Do List
+
+- Add your favorite movies/series in list 
+- Keeping track of the media you want to watch
+
+
 ## Angular
 
 Tech include:
