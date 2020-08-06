@@ -3,6 +3,10 @@
 - Add your favorite movies/series in list 
 - Keeping track of the media you want to watch
 
+## Depoly Link 
+  
+  https://favorite2media2watch2list.web.app/add
+
 
 ## Angular
 
